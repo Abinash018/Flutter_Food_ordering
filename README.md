@@ -43,7 +43,7 @@ People can try also-:
 
 1. Clone this app using below syntax -:
 
-   > git clone https://github.com/balram0608/food-delivery-flutter.git
+   > git clone https://github.com/Abinash018/Flutter_Food_ordering.git
 
 2. After cloning install packages using below syntax -:
    > flutter pub get
